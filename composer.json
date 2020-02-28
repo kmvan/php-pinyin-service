@@ -2,6 +2,7 @@
   "name": "kmvan/pinyin-service",
   "description": "INN STUDIO pinyin service.",
   "version": "1.0.0",
+  "license": "GPL-2.0",
   "type": "project",
   "authors": [
     {
